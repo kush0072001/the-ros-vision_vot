@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kaushal/ros2_ws3/install/vision_bot/lib/python3.10/site-packages",
+        "/home/kaushal/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/kaushal/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/kaushal/ros2_ws3/install/vision_bot/lib/python3.10/site-packages",
+        "/home/kaushal/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/kaushal/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
